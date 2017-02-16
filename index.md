@@ -9,6 +9,12 @@
 ## pattern recognition
 1. [行为识别常用特征提取](https://www.zhihu.com/question/41068341)
 
+## Market Microstructure
+1. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12691.pdf)
+2. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12703.pdf)
+3. [Market Microstructure in Practice 3/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12704.pdf)
+
+
 
 ## Machine Learning
 1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
