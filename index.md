@@ -4,3 +4,14 @@
 
 ## Market making 
 1. [Spread, volatility, and volume relationship in financial markets and market maker’s profit optimization](https://arxiv.org/pdf/1606.07381.pdf)
+
+
+## pattern recognition
+1. [行为识别常用特征提取](https://www.zhihu.com/question/41068341)
+
+
+## Machine Learning
+1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
+
+
+
