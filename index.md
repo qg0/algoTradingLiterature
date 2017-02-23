@@ -29,7 +29,7 @@
 
 1.[schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
 
-## strategies
+## Strategies
 
 1. [gamma trading]()
 2. [日历套利]()
@@ -37,4 +37,9 @@
 4. [反向套利]()
 5. [trend following]()
    - [Two centuries of trend following](https://arxiv.org/pdf/1404.3274.pdf)
+   
+
+## Backtesting
+
+1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
 
