@@ -23,8 +23,10 @@
 ## Machine Learning
 1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 2. [An Introduction to Variable and feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
-4. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
+3. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
 
 
+## Database
 
+1.[schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
 
