@@ -3,6 +3,7 @@
 
 2. [Intraday periodicity and volatility persistence in financial markets](http://public.econ.duke.edu/~boller/Published_Papers/joef_97.pdf)
 3. [Realized Volatility and Correlation](http://www.ssc.upenn.edu/~fdiebold/papers/paper29/temp.pdf)
+4. [Realized Volatility and Correlation2](http://www.ssc.upenn.edu/~fdiebold/papers/paper31/final2.pdf)
 4. [volatility trading library](https://github.com/jasonstrimpel/volatility-trading)
 
 ## Market making 
