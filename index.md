@@ -30,3 +30,9 @@
 
 1.[schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
 
+## strategies
+
+1. [gamma trading]()
+2. [日历套利]()
+3. [正向套利]()
+4. [反向套利]()
