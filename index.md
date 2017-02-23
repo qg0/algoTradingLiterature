@@ -36,5 +36,5 @@
 3. [正向套利]()
 4. [反向套利]()
 5. [trend following]()
-   5(1) [Two centuries of trend following](https://arxiv.org/pdf/1404.3274.pdf)
+   - [Two centuries of trend following](https://arxiv.org/pdf/1404.3274.pdf)
 
