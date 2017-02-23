@@ -39,7 +39,7 @@
 5. [trend following]()
    - [Two centuries of trend following](https://arxiv.org/pdf/1404.3274.pdf)
 6. [cta 的 beta and alpha 指什么](https://www.zhihu.com/question/48686896)   
-7. [量化交易有哪些经典策略](https://www.zhihu.com/question/26594258](https://www.zhihu.com/question/26594258)
+7. [量化交易有哪些经典策略](https://www.zhihu.com/question/26594258)
 
 ## Backtesting
 
