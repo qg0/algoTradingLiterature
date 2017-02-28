@@ -17,6 +17,7 @@
 1. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12691.pdf)
 2. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12703.pdf)
 3. [Market Microstructure in Practice 3/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12704.pdf)
+4. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
 
 
 
