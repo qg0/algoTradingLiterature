@@ -25,7 +25,7 @@
 1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 2. [An Introduction to Variable and feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 3. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
-
+4. [数据不平衡](http://www.zhaokv.com/2016/01/learning-from-imbalanced-data.html)
 
 ## Database
 
