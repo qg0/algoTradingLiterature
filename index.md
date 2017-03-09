@@ -26,6 +26,7 @@
 2. [An Introduction to Variable and feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 3. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
 4. [如何解决机器学习中数据不平衡问题](http://www.zhaokv.com/2016/01/learning-from-imbalanced-data.html)
+5. [高精度的时间序列预测](https://www.zhihu.com/question/21229371)
 
 ## Database
 
@@ -47,4 +48,8 @@
 ## Backtesting
 
 1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
+
+
+
+
 
