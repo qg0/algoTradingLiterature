@@ -27,6 +27,8 @@
 3. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
 4. [如何解决机器学习中数据不平衡问题](http://www.zhaokv.com/2016/01/learning-from-imbalanced-data.html)
 5. [高精度的时间序列预测](https://www.zhihu.com/question/21229371)
+6. [随机森林Random Forests的各个参数对模型的影响](https://www.zhihu.com/question/36511737)
+7. [随机森林参数调优](http://tankle.github.io/2015/06/11/Random-Forest-parameter-turning.html)
 
 ## Database
 
