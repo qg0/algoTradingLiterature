@@ -51,7 +51,9 @@
 
 1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
 
+## IT
 
+1. [test](https://github.com/cj555/Quants/blob/master/dingdan.md)
 
 
 
