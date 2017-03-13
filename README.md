@@ -54,3 +54,8 @@
 ## IT
 
 1. [test](https://github.com/cj555/Quants/blob/master/dingdan.md)
+
+## Websites
+
+1. [awesome-quant libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant) 
+
