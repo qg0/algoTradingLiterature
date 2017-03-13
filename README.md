@@ -53,7 +53,7 @@
 
 ## IT
 
-1. [test](https://github.com/cj555/Quants/blob/master/dingdan.md)
+1. [期权定价引擎](https://github.com/cj555/algoTradingLiterature/blob/master/IT/optionpricing.md)
 
 ## Websites
 
