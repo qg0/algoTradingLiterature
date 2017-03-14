@@ -58,4 +58,5 @@
 ## Websites
 
 1. [awesome-quant libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant) 
+2. [botvs](https://www.botvs.com/competition)
 
