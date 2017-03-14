@@ -1,10 +1,6 @@
 
 ## 概述
 
-
-
-
-![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%209.53.25%20PM.png)
 ![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%209.53.43%20PM.png)
 ![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%209.53.53%20PM.png)
 ![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%209.58.31%20PM.png)
