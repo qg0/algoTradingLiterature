@@ -45,6 +45,7 @@
 6. [cta 的 beta and alpha 指什么](https://www.zhihu.com/question/48686896)   
 7. [量化交易有哪些经典策略](https://www.zhihu.com/question/26594258)
 8. [Dual Thrust、R-Breaker、Dynamic Breakout II](https://www.botvs.com/bbs-topic/50)
+9. [程序化交易设计理念](https://www.zhihu.com/topic/19631049/hot)
 
 
 ## Backtesting
