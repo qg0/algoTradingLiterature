@@ -15,11 +15,12 @@
 ## 数据奶源
 ![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%209.59.38%20PM.png)
 ![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%209.59.52%20PM.png)
-![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%2010.00.02%20PM.png)
-![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%2010.00.14%20PM.png)
 
 
 ## Bid/Ask 价格
+
+![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%2010.00.02%20PM.png)
+![](https://github.com/cj555/algoTradingLiterature/blob/master/IT/figures/2017-03-13%20at%2010.00.14%20PM.png)
 
 ## Bid ask 再平衡
 
