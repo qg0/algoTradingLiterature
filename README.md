@@ -52,7 +52,7 @@
 13. [https://www.ricequant.com/community/topic/2651/](https://www.ricequant.com/community/topic/2651/)
 14. [成交量择时](https://www.ricequant.com/community/topic/2616/)
 15. [菲阿里策略2.0 择时](https://www.ricequant.com/community/topic/2469/) 
-
+16. [Dual Thrust期货策略](https://www.ricequant.com/community/topic/2473//2)
 
 ## Backtesting
 
@@ -66,4 +66,6 @@
 
 1. [awesome-quant libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant) 
 2. [botvs](https://www.botvs.com/competition)
+
+
 
