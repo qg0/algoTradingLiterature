@@ -51,6 +51,7 @@
 12. [基于hurst指数择时](https://www.ricequant.com/community/topic/2263/)        
 13. [https://www.ricequant.com/community/topic/2651/](https://www.ricequant.com/community/topic/2651/)
 14. [成交量择时](https://www.ricequant.com/community/topic/2616/)
+15. [菲阿里策略2.0 择时](https://www.ricequant.com/community/topic/2469/) 
 
 
 ## Backtesting
