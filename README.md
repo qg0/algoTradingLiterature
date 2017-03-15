@@ -50,6 +50,7 @@
 11. [基于隐马尔可夫模型的市场择时策略)(https://uqer.io/community/share/56ec30bf228e5b887be50b35)
 12. [基于hurst指数择时](https://www.ricequant.com/community/topic/2263/)        
 13. [https://www.ricequant.com/community/topic/2651/](https://www.ricequant.com/community/topic/2651/)
+14. [成交量择时](https://www.ricequant.com/community/topic/2616/)
 
 
 ## Backtesting
