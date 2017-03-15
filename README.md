@@ -54,6 +54,7 @@
 15. [菲阿里策略2.0 择时](https://www.ricequant.com/community/topic/2469/) 
 16. [Dual Thrust期货策略](https://www.ricequant.com/community/topic/2473//2)
 17. [高频信号分类器](https://www.ricequant.com/community/topic/864)
+18. [螺纹钢定价策略](https://www.ricequant.com/community/topic/2378/)
 
 ## Backtesting
 
