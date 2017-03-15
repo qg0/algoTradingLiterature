@@ -47,6 +47,7 @@
 8. [Dual Thrust、R-Breaker、Dynamic Breakout II](https://www.botvs.com/bbs-topic/50)
 9. [程序化交易设计理念](https://www.zhihu.com/topic/19631049/hot)
 10. [群体行为策略](http://mp.weixin.qq.com/s?__biz=MzA5NzEzNDk4Mw==&mid=208480402&idx=1&sn=46a21a3a454cb5d639750b845aed33b1&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+11.[基于隐马尔可夫模型的市场择时策略)(https://uqer.io/community/share/56ec30bf228e5b887be50b35)
 
 
 ## Backtesting
