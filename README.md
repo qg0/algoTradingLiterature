@@ -56,7 +56,7 @@
 17. [高频信号分类器](https://www.ricequant.com/community/topic/864)
 18. [螺纹钢定价策略](https://www.ricequant.com/community/topic/2378/)
 19. [做空钢厂策略](https://www.ricequant.com/community/topic/953/)
-
+20. [基本面加高收益](https://www.ricequant.com/community/topic/460/)
 
 ## Backtesting
 
