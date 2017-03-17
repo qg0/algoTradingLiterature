@@ -31,6 +31,11 @@
 7. [随机森林参数调优](http://tankle.github.io/2015/06/11/Random-Forest-parameter-turning.html)
 8. [数据挖掘中的时序数据分析方法][http://www.cad.zju.edu.cn/home/vagblog/?p=1727)
 
+## time series 
+1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
+
+
+
 ## Database
 
 1.[schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
