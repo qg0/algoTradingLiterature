@@ -29,6 +29,12 @@
 5. [高精度的时间序列预测](https://www.zhihu.com/question/21229371)
 6. [随机森林Random Forests的各个参数对模型的影响](https://www.zhihu.com/question/36511737)
 7. [随机森林参数调优](http://tankle.github.io/2015/06/11/Random-Forest-parameter-turning.html)
+8. [数据挖掘中的时序数据分析方法][http://www.cad.zju.edu.cn/home/vagblog/?p=1727)
+
+## time series 
+1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
+
+
 
 ## Database
 
@@ -45,6 +51,21 @@
 6. [cta 的 beta and alpha 指什么](https://www.zhihu.com/question/48686896)   
 7. [量化交易有哪些经典策略](https://www.zhihu.com/question/26594258)
 8. [Dual Thrust、R-Breaker、Dynamic Breakout II](https://www.botvs.com/bbs-topic/50)
+9. [程序化交易设计理念](https://www.zhihu.com/topic/19631049/hot)
+10. [群体行为策略](http://mp.weixin.qq.com/s?__biz=MzA5NzEzNDk4Mw==&mid=208480402&idx=1&sn=46a21a3a454cb5d639750b845aed33b1&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+11. [基于隐马尔可夫模型的市场择时策略)(https://uqer.io/community/share/56ec30bf228e5b887be50b35)
+12. [基于hurst指数择时](https://www.ricequant.com/community/topic/2263/)        
+13. [https://www.ricequant.com/community/topic/2651/](https://www.ricequant.com/community/topic/2651/)
+14. [成交量择时](https://www.ricequant.com/community/topic/2616/)
+15. [菲阿里策略2.0 择时](https://www.ricequant.com/community/topic/2469/) 
+16. [Dual Thrust期货策略](https://www.ricequant.com/community/topic/2473//2)
+17. [高频信号分类器](https://www.ricequant.com/community/topic/864)
+18. [螺纹钢定价策略](https://www.ricequant.com/community/topic/2378/)
+19. [做空钢厂策略](https://www.ricequant.com/community/topic/953/)
+20. [基本面加高收益](https://www.ricequant.com/community/topic/460/)
+21. [动态复制期权和保险策略](https://www.ricequant.com/community/topic/1443//6)
+22. [交易量选择动量&反转策略](https://www.ricequant.com/community/topic/1484/)
+
 
 
 ## Backtesting
@@ -53,9 +74,12 @@
 
 ## IT
 
-1. [test](https://github.com/cj555/Quants/blob/master/dingdan.md)
+1. [期权定价引擎](https://github.com/cj555/algoTradingLiterature/blob/master/IT/optionpricing.md)
 
+## Websites
 
+1. [awesome-quant libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant) 
+2. [botvs](https://www.botvs.com/competition)
 
 
 
