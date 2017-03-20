@@ -33,7 +33,8 @@
 
 ## time series 
 1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
-2. [Forecasting: principles and practice]()
+2. [Forecasting: principles and practice](https://github.com/cj555/algoTradingLiterature/blob/master/fpp-notes.pdf)
+3. [How to Decompose Time Series Data into Trend and Seasonality](http://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
 
 ## Database
 
