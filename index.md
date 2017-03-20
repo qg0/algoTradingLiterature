@@ -33,6 +33,7 @@
 
 ## time series 
 1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
+2. [Forecasting: principles and practice]()
 
 ## Database
 
