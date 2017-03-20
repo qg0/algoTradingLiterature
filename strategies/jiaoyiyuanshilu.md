@@ -11,7 +11,9 @@
 4. Pierce发现可能引起Euro下降的点：the discussion we had on cutting rate in today‘s meeting received a good deal of attention。上个月没有说这句。suggesting：虽然还没cut，但是已有cut倾向（于是就根据这句进行trading）
 提示：找寻与上次说法不同的具体语句，分析其中的倾向性。方法：记录每次宣布的内容，进行逐句对比。
 
-_Forex 市场规模：大于5.3 trln （53万亿）usd／day_
+```
+Forex 市场规模：大于5.3 trln （53万亿）usd／day
+```
 
 ### 蓝筹股day trading by Scott Laidler：找寻短暂出现的fluctuation
 _某员工给公司日盈利1-3k，自己每年250-500k。---- _
