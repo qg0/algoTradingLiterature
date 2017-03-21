@@ -38,8 +38,8 @@
 
 ## Database
 
-1.[schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
-2.[fx - economic calender csv](https://www.fxstreet.com/economic-calendar)
+1. [schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
+2. [fx - economic calender csv](https://www.fxstreet.com/economic-calendar)
 
 ## Strategies
 
