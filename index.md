@@ -71,6 +71,7 @@
 25. [程式策略分类](http://wenschair.blogspot.sg/2013/09/blog-post_25.html)
 26. [成交量增加率当冲策略](http://rane1220.pixnet.net/blog/post/87532798-%E7%A8%8B%E5%BC%8F%E4%BA%A4%E6%98%93@%E6%88%90%E4%BA%A4%E9%87%8F%E5%A2%9E%E5%8A%A0%E7%8E%87%E7%95%B6%E6%B2%96%E7%AD%96%E7%95%A5)
 27. [基于时间和成交量的交易策略](http://www.f-158.com/show.php?contentid=591)
+28. [外汇期货时间结构](http://rane1220.pixnet.net/blog/post/105010433)
 
 ## Backtesting
 
