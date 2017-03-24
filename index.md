@@ -69,7 +69,7 @@
 23. [交易员实录-转瞬百万纲要](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/jiaoyiyuanshilu.md)
 24. [追踪聪明钱](https://zhuanlan.zhihu.com/p/21653794)
 25. [程式策略分类](http://wenschair.blogspot.sg/2013/09/blog-post_25.html)
-
+26. [成交量增加率当冲策略](http://rane1220.pixnet.net/blog/post/87532798-%E7%A8%8B%E5%BC%8F%E4%BA%A4%E6%98%93@%E6%88%90%E4%BA%A4%E9%87%8F%E5%A2%9E%E5%8A%A0%E7%8E%87%E7%95%B6%E6%B2%96%E7%AD%96%E7%95%A5)
 ## Backtesting
 
 1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
