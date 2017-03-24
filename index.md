@@ -67,7 +67,7 @@
 21. [动态复制期权和保险策略](https://www.ricequant.com/community/topic/1443//6)
 22. [交易量选择动量&反转策略](https://www.ricequant.com/community/topic/1484/)
 23. [交易员实录-转瞬百万纲要](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/jiaoyiyuanshilu.md)
-
+24. [追踪聪明钱](https://zhuanlan.zhihu.com/p/21653794)
 
 
 ## Backtesting
