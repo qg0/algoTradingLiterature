@@ -73,6 +73,7 @@
 27. [基于时间和成交量的交易策略](http://www.f-158.com/show.php?contentid=591)
 28. [外汇期货时间结构](http://rane1220.pixnet.net/blog/post/105010433)
 29. [多策略管理](http://wenschair.blogspot.sg/2017/02/blog-post.html)
+30. []()
 
 ## Backtesting
 
