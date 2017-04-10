@@ -76,6 +76,7 @@
 30. [外汇陈晓鸥策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/chenxiaoou1.md)
 31. [如何评估开仓优势](https://zhuanlan.zhihu.com/p/20216931?refer=fuyidai)
 32. [外汇套息](https://zhuanlan.zhihu.com/p/20216931?refer=fuyidai)
+33. [基于时变对冲比率的商品期货Pairs Trading策略](https://zhuanlan.zhihu.com/p/26159365?utm_medium=social&utm_source=wechat_session&from=singlemessage&isappinstalled=1)
 
 ## Backtesting
 
@@ -89,6 +90,7 @@
 
 1. [awesome-quant libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant) 
 2. [botvs](https://www.botvs.com/competition)
+3. [史上最强quant资源](https://zhuanlan.zhihu.com/p/26191964?utm_medium=social&utm_source=wechat_session&from=singlemessage&isappinstalled=1)
 
 
 
