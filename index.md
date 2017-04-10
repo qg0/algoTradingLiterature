@@ -75,6 +75,7 @@
 29. [多策略管理](http://wenschair.blogspot.sg/2017/02/blog-post.html)
 30. [外汇陈晓鸥策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/chenxiaoou1.md)
 31. [如何评估开仓优势](https://zhuanlan.zhihu.com/p/20216931?refer=fuyidai)
+32. [外汇套息](https://zhuanlan.zhihu.com/p/20216931?refer=fuyidai)
 
 ## Backtesting
 
