@@ -77,6 +77,7 @@
 31. [如何评估开仓优势](https://zhuanlan.zhihu.com/p/20216931?refer=fuyidai)
 32. [外汇套息](https://zhuanlan.zhihu.com/p/20216931?refer=fuyidai)
 33. [基于时变对冲比率的商品期货Pairs Trading策略](https://zhuanlan.zhihu.com/p/26159365?utm_medium=social&utm_source=wechat_session&from=singlemessage&isappinstalled=1)
+34. [一个周期自适应的区间突破策略](https://uqer.io/community/share/57047d45228e5b48fdeb3f2d)
 
 ## Backtesting
 
