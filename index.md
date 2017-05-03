@@ -36,6 +36,7 @@
 2. [Forecasting: principles and practice](https://github.com/cj555/algoTradingLiterature/blob/master/fpp-notes.pdf)
 3. [How to Decompose Time Series Data into Trend and Seasonality](http://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
 4. [线性回归模型](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/lr.md)
+5. [Newey–West estimator- linear regression error 估计](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator)
 
 ## Database
 
