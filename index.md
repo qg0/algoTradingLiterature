@@ -95,5 +95,6 @@
 2. [botvs](https://www.botvs.com/competition)
 3. [史上最强quant资源](https://zhuanlan.zhihu.com/p/26191964?utm_medium=social&utm_source=wechat_session&from=singlemessage&isappinstalled=1)
 
-
+## Marketing
+[Marketing](https://github.com/cj555/algoTradingLiterature/blob/master/marketing/index.md)
 
