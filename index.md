@@ -4,7 +4,9 @@
 2. [Intraday periodicity and volatility persistence in financial markets](http://public.econ.duke.edu/~boller/Published_Papers/joef_97.pdf)
 3. [Realized Volatility and Correlation](http://www.ssc.upenn.edu/~fdiebold/papers/paper29/temp.pdf)
 4. [Realized Volatility and Correlation2](http://www.ssc.upenn.edu/~fdiebold/papers/paper31/final2.pdf)
-4. [volatility trading library](https://github.com/jasonstrimpel/volatility-trading)
+5. [volatility trading library](https://github.com/jasonstrimpel/volatility-trading)
+6. [预测波动率](https://www.zhihu.com/question/19770602)
+
 
 ## Market making 
 1. [Spread, volatility, and volume relationship in financial markets and market maker’s profit optimization](https://arxiv.org/pdf/1606.07381.pdf)
