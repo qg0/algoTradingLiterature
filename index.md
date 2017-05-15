@@ -11,7 +11,7 @@
 ## Market making 
 1. [Spread, volatility, and volume relationship in financial markets and market maker’s profit optimization](https://arxiv.org/pdf/1606.07381.pdf)
 2. [last look mechanism](http://thefxview.com/2014/07/16/what-is-last-look-in-forex/)
-3. [浅谈比特币期货做市策略]()
+3. [浅谈比特币期货做市策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/marketmakingcoin.md)
 
 ## pattern recognition
 1. [行为识别常用特征提取](https://www.zhihu.com/question/41068341)
