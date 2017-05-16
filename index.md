@@ -22,8 +22,8 @@
 3. [Market Microstructure in Practice 3/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12704.pdf)
 4. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
 
-
-
+## 金融工程
+1. [Stochastic Calculus 在现实的 Quant 世界中到底可以干什么](https://www.zhihu.com/question/39887876）
 ## Machine Learning
 1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 2. [An Introduction to Variable and feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
@@ -83,6 +83,8 @@
 32. [外汇套息](https://zhuanlan.zhihu.com/p/20216931?refer=fuyidai)
 33. [基于时变对冲比率的商品期货Pairs Trading策略](https://zhuanlan.zhihu.com/p/26159365?utm_medium=social&utm_source=wechat_session&from=singlemessage&isappinstalled=1)
 34. [一个周期自适应的区间突破策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/zishiying.md)
+35. [统计套利策略单腿风险](https://www.zhihu.com/question/58031732)
+
 
 ## Backtesting
 
