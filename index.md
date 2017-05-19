@@ -84,8 +84,7 @@
 33. [基于时变对冲比率的商品期货Pairs Trading策略](https://zhuanlan.zhihu.com/p/26159365?utm_medium=social&utm_source=wechat_session&from=singlemessage&isappinstalled=1)
 34. [一个周期自适应的区间突破策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/zishiying.md)
 35. [统计套利策略单腿风险](https://www.zhihu.com/question/58031732)
-
-
+36.[基于logistic回归模型的风格轮动预测]()
 ## Backtesting
 
 1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
