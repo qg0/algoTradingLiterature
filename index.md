@@ -105,3 +105,10 @@
 ## Marketing
 [Marketing](https://github.com/cj555/algoTradingLiterature/blob/master/marketing/index.md)
 
+
+
+## Missing data
+[Backtesting Data Considerations](http://www.bespokeoptions.com/blog/2015/05/14/backtesting-data-considerations)
+[tradingcalendar](https://github.com/quantopian/zipline/blob/master/zipline/utils/tradingcalendar.py)
+
+
