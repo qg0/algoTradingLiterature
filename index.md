@@ -34,11 +34,13 @@
 6. [随机森林Random Forests的各个参数对模型的影响](https://www.zhihu.com/question/36511737)
 7. [随机森林参数调优](http://tankle.github.io/2015/06/11/Random-Forest-parameter-turning.html)
 8. [数据挖掘中的时序数据分析方法](http://www.cad.zju.edu.cn/home/vagblog/?p=1727)
+9. [机器学习各种算法怎么调参](https://www.zhihu.com/question/34470160)
+
 
 ## 特征工程
 1. [cta 离散化]（https://github.com/cj555/algoTradingLiterature/blob/master/machineLearning/feature%20engineering/%E3%80%90%E9%87%8F%E5%8C%96%E8%AF%BE%E5%A0%82%E3%80%91%E6%95%99%E4%BD%A0%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E6%B6%A8%E8%B7%8C%20-%20%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F.pdf）
-
-
+2. [机器学习特征是如何找出来的](https://www.zhihu.com/question/41659582)
+3. [机器学习中有哪些特征选择的方法](https://www.zhihu.com/question/28641663)
 
 ## time series 
 1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
