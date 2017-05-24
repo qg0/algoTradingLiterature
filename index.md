@@ -95,7 +95,6 @@
 36. [基于logistic回归模型的风格轮动预测](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E5%9F%BA%E4%BA%8Elogistic%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A3%8E%E6%A0%BC%E8%BD%AE%E5%8A%A8%E9%A2%84%E6%B5%8B%20-%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB.pdf)
 37. [隐马尔科夫模型用于市场微观结构](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E9%9A%90%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E6%A8%A1%E5%9E%8B%E5%9C%A8%E9%87%91%E8%9E%8D%E9%A2%86%E5%9F%9F%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E.pdf)
 
-
 ## Backtesting
 
 1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
