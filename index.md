@@ -38,7 +38,7 @@
 
 
 ## 特征工程
-1. [cta 离散化]（https://github.com/cj555/algoTradingLiterature/blob/master/machineLearning/feature%20engineering/%E3%80%90%E9%87%8F%E5%8C%96%E8%AF%BE%E5%A0%82%E3%80%91%E6%95%99%E4%BD%A0%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E6%B6%A8%E8%B7%8C%20-%20%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F.pdf）
+1. [cta 离散化](https://github.com/cj555/algoTradingLiterature/blob/master/machineLearning/feature%20engineering/%E3%80%90%E9%87%8F%E5%8C%96%E8%AF%BE%E5%A0%82%E3%80%91%E6%95%99%E4%BD%A0%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E6%B6%A8%E8%B7%8C%20-%20%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F.pdf）
 2. [机器学习特征是如何找出来的](https://www.zhihu.com/question/41659582)
 3. [机器学习中有哪些特征选择的方法](https://www.zhihu.com/question/28641663)
 
