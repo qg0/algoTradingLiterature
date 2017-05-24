@@ -24,6 +24,7 @@
 
 ## 金融工程
 1. [Stochastic Calculus 在现实的 Quant 世界中到底可以干什么](https://www.zhihu.com/question/39887876）
+
 ## Machine Learning
 1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 2. [An Introduction to Variable and feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
@@ -33,6 +34,11 @@
 6. [随机森林Random Forests的各个参数对模型的影响](https://www.zhihu.com/question/36511737)
 7. [随机森林参数调优](http://tankle.github.io/2015/06/11/Random-Forest-parameter-turning.html)
 8. [数据挖掘中的时序数据分析方法](http://www.cad.zju.edu.cn/home/vagblog/?p=1727)
+
+## 特征工程
+1. []
+
+
 
 ## time series 
 1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
