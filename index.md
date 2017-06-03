@@ -37,6 +37,7 @@
 9. [机器学习各种算法怎么调参](https://www.zhihu.com/question/34470160)
 10. [逻辑回归](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 11. [深入解读逻辑回归系数](深入解读Logistic回归结果)
+12. [adaboosting](http://www.procedurego.com/article/66939.html)
 
 ## 特征工程
 1. [金融数据技术指标离散化]（https://github.com/cj555/algoTradingLiterature/blob/master/machineLearning/feature%20engineering/%E3%80%90%E9%87%8F%E5%8C%96%E8%AF%BE%E5%A0%82%E3%80%91%E6%95%99%E4%BD%A0%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E6%B6%A8%E8%B7%8C%20-%20%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F.pdf）
