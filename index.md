@@ -119,6 +119,10 @@
 [Marketing](https://github.com/cj555/algoTradingLiterature/blob/master/marketing/index.md)
 
 
+## sentiment Analysis
+[NLP之淘宝商品情感分析]()
+[淘宝的评论归纳是如何做到的](https://www.zhihu.com/question/20905103)
+
 
 ## Missing data
 
