@@ -98,7 +98,7 @@
 37. [隐马尔科夫模型用于市场微观结构](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E9%9A%90%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E6%A8%A1%E5%9E%8B%E5%9C%A8%E9%87%91%E8%9E%8D%E9%A2%86%E5%9F%9F%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E.pdf)
 38. [初级 quant的工作内容](初级 quant的工作内容)
 39. [多因子 barra 模型1](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E5%A4%9A%E5%9B%A0%E5%AD%90Barra%E6%A8%A1%E5%9E%8B1.pdf)
-40. [多因子 barra 模型2]()
+40. [多因子 barra 模型2](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E5%A4%9A%E5%9B%A0%E5%AD%90Barra%E6%A8%A1%E5%9E%8B2.pdf)
 
 
 ## Backtesting
