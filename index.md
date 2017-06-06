@@ -38,6 +38,7 @@
 10. [逻辑回归](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 11. [深入解读逻辑回归系数](深入解读Logistic回归结果)
 12. [adaboosting](http://www.procedurego.com/article/66939.html)
+13. []()
 
 ## 特征工程
 1. [金融数据技术指标离散化]（https://github.com/cj555/algoTradingLiterature/blob/master/machineLearning/feature%20engineering/%E3%80%90%E9%87%8F%E5%8C%96%E8%AF%BE%E5%A0%82%E3%80%91%E6%95%99%E4%BD%A0%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E6%B6%A8%E8%B7%8C%20-%20%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F.pdf）
@@ -57,10 +58,9 @@
 2. [fx - economic calender csv](https://www.fxstreet.com/economic-calendar)
 
 ## Strategies
-
 1. [gamma trading]()
-2. [日历套利]()
-3. [正向套利]()
+2. [中国证券市场高频交易](https://www.zhihu.com/question/31986003)
+3. [运筹优化、统计学与机器学习在量化交易中的应用](https://zhuanlan.zhihu.com/p/27245971)
 4. [反向套利]()
 5. [trend following]()
    - [Two centuries of trend following](https://arxiv.org/pdf/1404.3274.pdf)
@@ -96,6 +96,10 @@
 35. [统计套利策略单腿风险](https://www.zhihu.com/question/58031732)        
 36. [基于logistic回归模型的风格轮动预测](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E5%9F%BA%E4%BA%8Elogistic%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A3%8E%E6%A0%BC%E8%BD%AE%E5%8A%A8%E9%A2%84%E6%B5%8B%20-%20%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB.pdf)
 37. [隐马尔科夫模型用于市场微观结构](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E9%9A%90%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E6%A8%A1%E5%9E%8B%E5%9C%A8%E9%87%91%E8%9E%8D%E9%A2%86%E5%9F%9F%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E.pdf)
+38. [初级 quant的工作内容](初级 quant的工作内容)
+39. [多因子 barra 模型1]()
+40. [多因子 barra 模型2]()
+
 
 ## Backtesting
 
