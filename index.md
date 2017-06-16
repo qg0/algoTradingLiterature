@@ -3,13 +3,13 @@
 
    + [数据处理](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#数据处理)    
    
-      * [Missing data](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#Missing data)       
+      * [Missing data](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#缺失值)       
       
       * [舆情数据](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#舆情数据)   
       
       * [特征工程](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#特征工程)     
       
-   + [time series](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#time series)    
+   + [time series](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#时序)    
    
    + [金工](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#金工)          
    
@@ -25,7 +25,7 @@
 ==============================================
 ### 数据处理
 
-#### Missing data
+#### 缺失值
 
 1. [Backtesting Data Considerations](http://www.bespokeoptions.com/blog/2015/05/14/backtesting-data-considerations)
 [tradingcalendar](https://github.com/quantopian/zipline/blob/master/zipline/utils/tradingcalendar.py)
@@ -41,7 +41,7 @@
 3. [机器学习中有哪些特征选择的方法](https://www.zhihu.com/question/28641663)
 
 
-### time series 
+### 时序  
 1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
 2. [Forecasting: principles and practice](https://github.com/cj555/algoTradingLiterature/blob/master/fpp-notes.pdf)
 3. [How to Decompose Time Series Data into Trend and Seasonality](http://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
