@@ -1,32 +1,43 @@
-## volatility
-1. [Forecasting Volatility using High Frequency Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.6732&rep=rep1&type=pdf)
 
-2. [Intraday periodicity and volatility persistence in financial markets](http://public.econ.duke.edu/~boller/Published_Papers/joef_97.pdf)
-3. [Realized Volatility and Correlation](http://www.ssc.upenn.edu/~fdiebold/papers/paper29/temp.pdf)
-4. [Realized Volatility and Correlation2](http://www.ssc.upenn.edu/~fdiebold/papers/paper31/final2.pdf)
-5. [volatility trading library](https://github.com/jasonstrimpel/volatility-trading)
-6. [预测波动率](https://www.zhihu.com/question/19770602)
+- [数据分析](## 数据分析)
 
 
-## Market making 
-1. [Spread, volatility, and volume relationship in financial markets and market maker’s profit optimization](https://arxiv.org/pdf/1606.07381.pdf)
-2. [last look mechanism](http://thefxview.com/2014/07/16/what-is-last-look-in-forex/)
-3. [浅谈比特币期货做市策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/marketmakingcoin.md)
-4. [高频交易](https://github.com/cj555/algoTradingLiterature/tree/master/strategies)
+## 数据分析
+==============================================
+### 数据处理
 
-## pattern recognition
-1. [行为识别常用特征提取](https://www.zhihu.com/question/41068341)
+#### Missing data
 
-## Market Microstructure
-1. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12691.pdf)
-2. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12703.pdf)
-3. [Market Microstructure in Practice 3/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12704.pdf)
-4. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
+1. [Backtesting Data Considerations](http://www.bespokeoptions.com/blog/2015/05/14/backtesting-data-considerations)
+[tradingcalendar](https://github.com/quantopian/zipline/blob/master/zipline/utils/tradingcalendar.py)
 
-## 金融工程
+#### 舆情数据
+
+1. [NLP之淘宝商品情感分析](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/NLP%E4%B9%8B%E6%B7%98%E5%AE%9D%E5%95%86%E5%93%81%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.pdf)
+2. [淘宝的评论归纳是如何做到的](https://www.zhihu.com/question/20905103)
+
+#### 特征工程
+1. [金融数据技术指标离散化]（https://github.com/cj555/algoTradingLiterature/blob/master/machineLearning/feature%20engineering/%E3%80%90%E9%87%8F%E5%8C%96%E8%AF%BE%E5%A0%82%E3%80%91%E6%95%99%E4%BD%A0%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E6%B6%A8%E8%B7%8C%20-%20%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F.pdf）
+2. [机器学习特征是如何找出来的](https://www.zhihu.com/question/41659582)
+3. [机器学习中有哪些特征选择的方法](https://www.zhihu.com/question/28641663)
+
+
+### time series 
+1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
+2. [Forecasting: principles and practice](https://github.com/cj555/algoTradingLiterature/blob/master/fpp-notes.pdf)
+3. [How to Decompose Time Series Data into Trend and Seasonality](http://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
+4. [线性回归模型](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/lr.md)
+5. [Newey–West estimator- linear regression error 估计](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator)
+6. [行为识别常用特征提取](https://www.zhihu.com/question/41068341)
+
+
+### 金工
 1. [Stochastic Calculus 在现实的 Quant 世界中到底可以干什么](https://www.zhihu.com/question/39887876）
 
-## Machine Learning
+
+
+### 机器学习
+
 1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 2. [An Introduction to Variable and feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 3. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
@@ -39,26 +50,11 @@
 10. [逻辑回归](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 11. [深入解读逻辑回归系数](深入解读Logistic回归结果)
 12. [adaboosting](http://www.procedurego.com/article/66939.html)
-13. []()
 
-## 特征工程
-1. [金融数据技术指标离散化]（https://github.com/cj555/algoTradingLiterature/blob/master/machineLearning/feature%20engineering/%E3%80%90%E9%87%8F%E5%8C%96%E8%AF%BE%E5%A0%82%E3%80%91%E6%95%99%E4%BD%A0%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E6%B6%A8%E8%B7%8C%20-%20%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F.pdf）
-2. [机器学习特征是如何找出来的](https://www.zhihu.com/question/41659582)
-3. [机器学习中有哪些特征选择的方法](https://www.zhihu.com/question/28641663)
 
-## time series 
-1. [用R分析时间序列(time series)数据](http://www.cnblogs.com/sylvanas2012/p/4328861.html)
-2. [Forecasting: principles and practice](https://github.com/cj555/algoTradingLiterature/blob/master/fpp-notes.pdf)
-3. [How to Decompose Time Series Data into Trend and Seasonality](http://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
-4. [线性回归模型](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/lr.md)
-5. [Newey–West estimator- linear regression error 估计](https://en.wikipedia.org/wiki/Newey%E2%80%93West_estimator)
 
-## Database
-
-1. [schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
-2. [fx - economic calender csv](https://www.fxstreet.com/economic-calendar)
-
-## Strategies
+## 策略
+==============================================
 1. [gamma trading]()
 2. [中国证券市场高频交易](https://www.zhihu.com/question/31986003)
 3. [运筹优化、统计学与机器学习在量化交易中的应用](https://zhuanlan.zhihu.com/p/27245971)
@@ -102,18 +98,47 @@
 40. [多因子 barra 模型2](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E5%A4%9A%E5%9B%A0%E5%AD%90Barra%E6%A8%A1%E5%9E%8B2.pdf)
 41. [adaboost选股](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/adaboost%20%E9%80%89%E8%82%A1.pdf)
 42. [米筐2017年二季度策略研究优选](https://www.ricequant.com/community/topic/3541)
+43. [保本策略- 复制期权之OBPI策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E8%AE%BA%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E5%A4%8D%E5%88%B6%E6%9C%9F%E6%9D%83%E4%B9%8BOBPI%E7%AD%96%E7%95%A5.pdf)
+44. [保本策略- 资产组合不同动态调整方法的简单对比](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E8%B5%84%E4%BA%A7%E7%BB%84%E5%90%88%E4%B8%8D%E5%90%8C%E5%8A%A8%E6%80%81%E8%B0%83%E6%95%B4%E6%96%B9%E6%B3%95%E7%9A%84%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94.pdf)
+45. [MM- Spread, volatility, and volume relationship in financial markets and market maker’s profit optimization](https://arxiv.org/pdf/1606.07381.pdf)
+46. [MM- last look mechanism](http://thefxview.com/2014/07/16/what-is-last-look-in-forex/)
+47. [MM- 浅谈比特币期货做市策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/marketmakingcoin.md)
+48. [MM- 高频交易](https://github.com/cj555/algoTradingLiterature/tree/master/strategies)
+
+### volatility
+1. [Forecasting Volatility using High Frequency Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.6732&rep=rep1&type=pdf)
+2. [Intraday periodicity and volatility persistence in financial markets](http://public.econ.duke.edu/~boller/Published_Papers/joef_97.pdf)
+3. [Realized Volatility and Correlation](http://www.ssc.upenn.edu/~fdiebold/papers/paper29/temp.pdf)
+4. [Realized Volatility and Correlation2](http://www.ssc.upenn.edu/~fdiebold/papers/paper31/final2.pdf)
+5. [volatility trading library](https://github.com/jasonstrimpel/volatility-trading)
+6. [预测波动率](https://www.zhihu.com/question/19770602)
+
+### Market Microstructure
+1. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12691.pdf)
+2. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12703.pdf)
+3. [Market Microstructure in Practice 3/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12704.pdf)
+4. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
 
 
-## Backtesting
+### Backtesting
 
 1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
 
 ## IT
+==============================================
 
+### others
 1. [期权定价引擎](https://github.com/cj555/algoTradingLiterature/blob/master/IT/optionpricing.md)
 2. [restful api 进阶](https://zhuanlan.zhihu.com/p/24832193)
 
+### Database
+a. [schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
+b. [fx - economic calender csv](https://www.fxstreet.com/economic-calendar)
+
+
+
 ## Websites
+==============================================
 
 1. [awesome-quant libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant) 
 2. [botvs](https://www.botvs.com/competition)
@@ -123,18 +148,6 @@
 [Marketing](https://github.com/cj555/algoTradingLiterature/blob/master/marketing/index.md)
 
 
-## sentiment Analysis
-1. [NLP之淘宝商品情感分析](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/NLP%E4%B9%8B%E6%B7%98%E5%AE%9D%E5%95%86%E5%93%81%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.pdf)
-2. [淘宝的评论归纳是如何做到的](https://www.zhihu.com/question/20905103)
 
-## 保本策略
-1. [复制期权之OBPI策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E8%AE%BA%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E5%A4%8D%E5%88%B6%E6%9C%9F%E6%9D%83%E4%B9%8BOBPI%E7%AD%96%E7%95%A5.pdf)
-2. [资产组合不同动态调整方法的简单对比](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E8%B5%84%E4%BA%A7%E7%BB%84%E5%90%88%E4%B8%8D%E5%90%8C%E5%8A%A8%E6%80%81%E8%B0%83%E6%95%B4%E6%96%B9%E6%B3%95%E7%9A%84%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94.pdf)
-
-
-## Missing data
-
-[Backtesting Data Considerations](http://www.bespokeoptions.com/blog/2015/05/14/backtesting-data-considerations)
-[tradingcalendar](https://github.com/quantopian/zipline/blob/master/zipline/utils/tradingcalendar.py)
 
 
