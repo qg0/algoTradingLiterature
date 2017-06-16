@@ -8,7 +8,7 @@
    + [金工](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#金工)          
    + [机器学习](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#机器学习)    
 - [策略](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#策略)      
-  
+- [金融经济](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#金融经济)
 
 
 ## 数据
