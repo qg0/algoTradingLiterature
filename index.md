@@ -9,6 +9,7 @@
    + [机器学习](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#机器学习)    
 - [策略](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#策略)      
 - [金融经济](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#金融经济)
+- [数据源](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#数据源)
 
 
 ## 数据
@@ -44,7 +45,6 @@
 1. [Stochastic Calculus 在现实的 Quant 世界中到底可以干什么](https://www.zhihu.com/question/39887876）
 
 
-
 ### 机器学习
 
 1. [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
@@ -64,7 +64,12 @@
 ==============================================
 1. [根据“美国联邦基金利率期货价格”计算美联储加息概率](https://www.zhihu.com/question/37711945)
 
-
+## 数据源
+==============================================
+1. [fx - economic calender csv](https://www.fxstreet.com/economic-calendar)
+2. [投行外汇持仓](http://toutiao.manqian.cn/wz_1j8y5OAjJv.html)
+3. [imm持仓报告-每日](http://datainfo.fx168.com/imm.shtml)
+4. [CFTC持仓-每周五，统计到每周二](http://datainfo.fx168.com/cftc.shtml)
 
 ## 策略
 ==============================================
@@ -136,6 +141,8 @@
 ### Backtesting
 
 1. [测试一个交易策略，需要注重哪些指标](https://www.zhihu.com/question/26028390)
+2. [风险破产表](https://www.zhihu.com/question/60833649)
+
 
 ## IT
 ==============================================
@@ -145,9 +152,10 @@
 2. [restful api 进阶](https://zhuanlan.zhihu.com/p/24832193)
 
 ### Database
-a. [schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
-b. [fx - economic calender csv](https://www.fxstreet.com/economic-calendar)
+1. [schema-design-for-time-series-data-in-mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
 
+### 券商api
+1. [IB api全解](http://mp.weixin.qq.com/s/NP_H90o3I97jVTh48ZcrDA)
 
 
 ## Websites
