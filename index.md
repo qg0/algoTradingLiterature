@@ -1,23 +1,13 @@
 
 - [数据分析](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#数据)  
-
    + [数据处理](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#数据处理)    
-   
       * [Missing data](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#缺失值)       
-      
       * [舆情数据](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#舆情数据)   
-      
-      * [特征工程](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#特征工程)     
-      
-   + [time series](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#时序)    
-   
+      * [特征工程](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#特征工程)    
+   + [time series](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#时序)      
    + [金工](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#金工)          
-   
    + [机器学习](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#机器学习)    
-   
 - [策略](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#策略)      
-
-
   
 
 
