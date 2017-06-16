@@ -101,7 +101,7 @@
 39. [多因子 barra 模型1](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E5%A4%9A%E5%9B%A0%E5%AD%90Barra%E6%A8%A1%E5%9E%8B1.pdf)
 40. [多因子 barra 模型2](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E5%A4%9A%E5%9B%A0%E5%AD%90Barra%E6%A8%A1%E5%9E%8B2.pdf)
 41. [adaboost选股](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/adaboost%20%E9%80%89%E8%82%A1.pdf)
-
+42. [米筐2017年二季度策略研究优选](https://www.ricequant.com/community/topic/3541)
 
 
 ## Backtesting
@@ -111,6 +111,7 @@
 ## IT
 
 1. [期权定价引擎](https://github.com/cj555/algoTradingLiterature/blob/master/IT/optionpricing.md)
+2. [restful api 进阶](https://zhuanlan.zhihu.com/p/24832193)
 
 ## Websites
 
@@ -129,8 +130,6 @@
 ## 保本策略
 1. [复制期权之OBPI策略](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E8%AE%BA%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E5%A4%8D%E5%88%B6%E6%9C%9F%E6%9D%83%E4%B9%8BOBPI%E7%AD%96%E7%95%A5.pdf)
 2. [资产组合不同动态调整方法的简单对比](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E8%B5%84%E4%BA%A7%E7%BB%84%E5%90%88%E4%B8%8D%E5%90%8C%E5%8A%A8%E6%80%81%E8%B0%83%E6%95%B4%E6%96%B9%E6%B3%95%E7%9A%84%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94.pdf)
-
-
 
 
 ## Missing data
