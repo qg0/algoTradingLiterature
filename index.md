@@ -1,19 +1,19 @@
 
 - [数据分析](##数据)  
 
-   +[数据处理](###数据处理)    
+   + [数据处理](###数据处理)    
    
-      *[Missing data](####Missing data)       
+      * [Missing data](####Missing data)       
       
-      *[舆情数据](####舆情数据)   
+      * [舆情数据](####舆情数据)   
       
-      *[特征工程](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#特征工程)     
+      * [特征工程](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#特征工程)     
       
-   +[time series](##time series)    
+   + [time series](##time series)    
    
-   +[金工](###金工)          
+   + [金工](###金工)          
    
-   +[机器学习](###机器学习)    
+   + [机器学习](###机器学习)    
    
 - [策略](##策略)      
 
