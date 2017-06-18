@@ -1,3 +1,5 @@
+## 目录
+==============================================
 
 - [数据分析](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#数据)  
    + [数据处理](https://github.com/cj555/algoTradingLiterature/blob/master/index.md#数据处理)    
@@ -136,6 +138,9 @@
 2. [Market Microstructure in Practice 2/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12703.pdf)
 3. [Market Microstructure in Practice 3/3](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12704.pdf)
 4. [Machine Learning for Market Microstructure and High Frequency Trading](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf)
+
+### 事件驱动
+1. [新型的事件驱动与大数据投资应用](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/eventdriven1.pdf)
 
 
 ### Backtesting
