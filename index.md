@@ -146,6 +146,7 @@
 ### 事件驱动
 1. [新型的事件驱动与大数据投资应用](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/eventdriven1.pdf)
 2. [deep learning for event-Driven stock prediction](https://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjfgtGEhsfUAhULOY8KHabkACYQFggwMAA&url=https%3A%2F%2Fwww.ijcai.org%2FProceedings%2F15%2FPapers%2F329.pdf&usg=AFQjCNHr2FYjSCtsjZo9WIU9BsAMmM8ybQ&sig2=hY720mEmicNKfEJZ1LbAnw)
+3.[浅谈事件套利](https://github.com/cj555/algoTradingLiterature/blob/master/strategies/%E6%B5%85%E8%B0%88%E4%BA%8B%E4%BB%B6%E5%A5%97%E5%88%A9_%E6%9C%9F%E8%B4%A7%E6%8A%A5%E7%BA%B8_%E6%9C%9F%E8%B4%A7%E6%97%A5%E6%8A%A5%E7%BD%91.pdf)
 
 ### Backtesting
 
